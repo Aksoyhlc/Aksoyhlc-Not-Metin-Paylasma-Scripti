@@ -95,17 +95,17 @@ if (empty($_SESSION['site_dili'])) {
 
     <?php } else { ?>
       <a href="kayit.php">
-        <button type="button" class="btn btn-info">Kayıt Ol</button>
+        <button type="button" class="btn btn-info"><?php echo $dil['kayitol'] ?></button>
       </a>
 
       <a href="login.php">
-        <button type="button" class="btn btn-success">Giriş Yap</button>
+        <button type="button" class="btn btn-success"><?php echo $dil['girisyap'] ?></button>
       </a>
 
     <?php } ?>
 
     <a href="iletisim.php">
-      <button type="button" class="btn btn-light">İletişim</button>
+      <button type="button" class="btn btn-light"><?php echo $dil['iletisim'] ?></button>
     </a>
 
     <a href="hakkimizda.php">

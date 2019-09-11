@@ -1,0 +1,27 @@
+-----Aksoyhlc Not Metin Paylaþma Scripti-----
+
+Bu script Udemy üzerinde ki "PHP Geliþmiþ Script Yapýmý | 5 Adet Profesyonel Script Yazma" kursu için hazýrlanmýþtýr. Bu scriptin nasýl yapýldýðýný öðrenmek istiyorsanýz aþaðýda ki linkten kursu satýn alabilirsiniz.
+
+Kurs Linki: https://www.udemy.com/course/php-gelismis-script-yapimi-profesyonel-script-yazma-kursu/
+
+----Kurulum---
+
+1. Yeni bir tane veritabaný oluþturun ve zip dosyasý içerisinde ki SQL dosyasýný içe aktarýn.
+2. Ýlk oturum için 
+Mail adresi: aksoyhlc@gmail.com
+Þifre: 123
+
+
+Çoklu Dil Sistemi:
+===============
+Sistemin tamamý çoklu dil yapýsýna uygun hazýrlanmadý sadece bazý belirli alanlar çoklu dil yapýsýna uygun olacak þekilde hazýrlandý. Scriptin tamamýný çoklu dil yapýsýna uygun hale getirmek için sayfa baþýnda verilen Udemy kursunu inceleyebilirsiniz.
+
+
+Herhangi bir sorunda; 
+Skype: Aksoyhlc (önerilen)
+Mail: aksoyhlc@gmail.com | 27aksoy27@gmail.com | admin@aksoyhlc.net
+Link: https://www.aksoyhlc.net/iletisim
+
+adreslerinden herhangi biri ile iletiþime geçebilirsiniz.
+
+-----Aksoyhlc Not Metin Paylaþma Scripti-----
