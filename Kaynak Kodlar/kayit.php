@@ -60,7 +60,7 @@
 						var deger=gelen.sonuc;
 						if (deger=="ok") {
 							window.location="login.php";
-						} else if (deger="mailalindi") {
+						} else if (deger=="mailalindi") {
 							alert("Bu Mail Adresi Önceden ALınmış")
 						} else {
 							alert("Kayıt Başarısız")
